@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 
-  <a href="https://www.linkedin.com/in/https:/www.linkedin.com/in/alan-v-marques/" target="_blank">
+  <a href="https://www.linkedin.com/in/alan-v-marques/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
