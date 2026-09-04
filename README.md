@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi! I'm Alan Valerio 👋
 
-<!--
-**AlanKksh/AlanKksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Follow me
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/SEU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:SEU_EMAIL@email.com">
+    <img src="https://img.shields.io/badge/OUTLOOK-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  </a>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=merko">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=merko">
+
+<br>
+
+### 💻 Technologies & Tools
+
+<div style="display: inline_block"><br>
+
+<img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+<img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+
+<img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+<img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+
+<img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+<img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+
+</div>
+
+<br>
+
+<img src="./assets/paris.png" width="100%" alt="Paris Skyline">
